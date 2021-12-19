@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    
+    int num;
+    cin>>num;
     // half pyramid after 180 degree rotation
     
     for(int i=1; i<=num; i++){
